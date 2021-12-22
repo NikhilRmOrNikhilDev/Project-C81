@@ -1,0 +1,14 @@
+*{
+    font-family:'Poppins',sans-serif ;
+}
+body{
+    background: url(istockphoto-1146651425-170667a.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#myCanvas{
+    border: 10px ridge;
+    background-color: whitesmoke;
+}
